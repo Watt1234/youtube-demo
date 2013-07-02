@@ -1,2 +1,3 @@
 lubie bombaski
 xdddd
+readme
